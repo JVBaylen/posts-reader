@@ -1,6 +1,7 @@
 import { Route, Routes } from "react-router";
 import HomeScreen from "./pages/HomeScreen";
 import Layout from "./components/layout";
+import PostDetailsScreen from "./pages/PostDetailsScreen";
 
 function App() {
   return (
